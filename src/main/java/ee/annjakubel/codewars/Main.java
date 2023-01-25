@@ -1,6 +1,6 @@
-package ee.annjakubel.forcodewars;
+package ee.annjakubel.codewars;
 
-import ee.annjakubel.forcodewars.twoforone.TwoForOne;
+import ee.annjakubel.codewars.oddevensort.OddEvenSort;
 
 public class Main {
     public static void main(String[] args) {
