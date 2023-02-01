@@ -1,8 +1,8 @@
 package ee.annjakubel.codewars.findodd;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
+// --6 KYU--
 public class FindOdd {
     /*
     Given an array of integers, find the one that appears an odd number of times.

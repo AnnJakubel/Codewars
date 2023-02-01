@@ -1,5 +1,6 @@
 package ee.annjakubel.codewars.oddevensort;
 
+// --7 KYU--
 public class OddEvenSort {
 
     public OddEvenSort() {}

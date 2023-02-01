@@ -1,5 +1,6 @@
 package ee.annjakubel.codewars.createphonenumber;
 
+// --6 KYU--
 public class CreatePhoneNumber {
     public CreatePhoneNumber() {}
 
