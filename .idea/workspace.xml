@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08deeedc-2433-4cac-ad8a-0073d3cac367" name="Changes" comment="CreatePhoneNumber exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ee/annjakubel/codewars/smilefaces/SmileFaces.java" afterDir="false" />
+    <list default="true" id="08deeedc-2433-4cac-ad8a-0073d3cac367" name="Changes" comment="Removed unused imports on Main.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ee/annjakubel/codewars/aresame/AreSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ee/annjakubel/codewars/snail/Snail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ee/annjakubel/codewars/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ee/annjakubel/codewars/Main.java" afterDir="false" />
     </list>
@@ -73,7 +74,11 @@
       <workItem from="1674937003486" duration="2286000" />
       <workItem from="1675069380117" duration="1112000" />
       <workItem from="1675071475923" duration="28000" />
-      <workItem from="1675285531379" duration="2701000" />
+      <workItem from="1675285531379" duration="2878000" />
+      <workItem from="1675332619034" duration="31000" />
+      <workItem from="1675334344390" duration="3528000" />
+      <workItem from="1675351499137" duration="246000" />
+      <workItem from="1677946090471" duration="3254000" />
     </task>
     <task id="LOCAL-00001" summary="TwoForOne exercise">
       <created>1674594986828</created>
@@ -103,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675070155931</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SmileFaces exercise">
+      <created>1675288372511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675288372511</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed unused imports on Main.java">
+      <created>1675288403410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675288403410</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +144,9 @@
     <MESSAGE value="OddEvenSort exercise" />
     <MESSAGE value="FindOdd exercise" />
     <MESSAGE value="CreatePhoneNumber exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="CreatePhoneNumber exercise" />
+    <MESSAGE value="SmileFaces exercise" />
+    <MESSAGE value="Removed unused imports on Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused imports on Main.java" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codewars$Codewars.ic" NAME="Codewars Coverage Results" MODIFIED="1674938078663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
